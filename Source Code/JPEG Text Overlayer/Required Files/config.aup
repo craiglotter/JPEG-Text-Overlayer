@@ -1,0 +1,3 @@
+APPLICATION_NAME=JPEG Text Overlayer
+EXECUTABLE=JPEG Text Overlayer.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/JPEG Text Overlayer/manifest.xml
